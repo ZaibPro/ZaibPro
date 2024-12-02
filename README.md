@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shahzaib! 👋
 
-<!--
-**ZaibPro/ZaibPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Contact Me
+- **Discord**: cyberhull  
 
-Here are some ideas to get you started:
+## 🌐 About Me
+- **Languages Spoken**: English, Urdu, Hindi  
+- **Age**: 13  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Coding Expertise
+- **Intermediate**:  
+  - Python  
+  - HTML & CSS  
+- **Learning**:  
+  - JavaScript  
+  - Node.js  
+
+## 🖥️ My Setup
+- **Processor**: Pentium 2  
+- **RAM**: 4GB  
+- **GPU**: None  
+- **IDE**: Visual Studio Code  
+- **Operating Systems**: Linux Mint & Windows  
+
+---
+
+🌟 Thanks for visiting my profile!
